@@ -1,4 +1,6 @@
 hi from the remote!
 local addition
 remote addition
+cats!
 dogs
+
